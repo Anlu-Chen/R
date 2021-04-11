@@ -1,3 +1,4 @@
+#Cadena de Markov
 library(markovchain)
 weatherStates<-c("sunny", "cloudy", "rain")
 byRow<-TRUE
